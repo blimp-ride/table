@@ -2,6 +2,8 @@
 # Terminal tables
 #
 
+#=import color
+
 row-2() {
   _lval="${1}"
   _rval="${2}"
